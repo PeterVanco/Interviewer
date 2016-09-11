@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="Interviewer:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="interviewer-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Interviewer:war exploded" />
+    </root>
+  </artifact>
+</component>
